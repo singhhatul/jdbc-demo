@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee3ea68f-1b42-4b3b-b56a-cfe4d335dcb2" name="Default Changelist" comment="" />
+    <list default="true" id="ee3ea68f-1b42-4b3b-b56a-cfe4d335dcb2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/JdbcBatchProcessingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/JdbcBatchProcessingDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/JdbcTransactionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/JdbcTransactionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/ResultSetMetaDataDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/ResultSetMetaDataDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/RowSetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/RowSetDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stackroute/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stackroute/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stackroute/JdbcBatchProcessingDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stackroute/JdbcBatchProcessingDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stackroute/JdbcTransactionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stackroute/JdbcTransactionDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stackroute/ResultSetMetaDataDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stackroute/ResultSetMetaDataDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stackroute/RowSetDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stackroute/RowSetDemo.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +24,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1OladederzyAXL9fVPX1V8bnNEz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -62,5 +75,16 @@
       <updated>1564554725665</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

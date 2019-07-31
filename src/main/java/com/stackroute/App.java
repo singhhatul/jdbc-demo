@@ -15,5 +15,11 @@ public class App
         databaseMetaDataDemo.displayDataBaseMetaData();
         JdbcBatchProcessingDemo jdbcBatchProcessingDemo=new JdbcBatchProcessingDemo();
         jdbcBatchProcessingDemo.batchProcessing();
+        ResultSetMetaDataDemo resultSetMetaDataDemo=new ResultSetMetaDataDemo();
+        resultSetMetaDataDemo.resultSetMetaData();
+        RowSetDemo rowSetDemo=new RowSetDemo();
+        rowSetDemo.rowSetDemo();
+        JdbcTransactionDemo jdbcTransactionDemo=new JdbcTransactionDemo();
+        jdbcTransactionDemo.jdbcTransaction();
     }
 }

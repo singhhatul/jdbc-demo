@@ -36,11 +36,8 @@ public class JdbcBatchProcessingDemo {
 
 // Create an int[] to hold returned values
             int[] count = statement.executeBatch();
-            for(int i=0;i<count.length;i++){
-                System.out.println("no of rows effected "+count[i]);
-            }
 
-
+                System.out.println("no of rows effected "+count);
 //Explicitly commit statements to apply changes
             connection.commit();
         }catch (SQLException e) {
